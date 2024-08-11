@@ -6,5 +6,5 @@
 
 Запустить скрипт
 ```
-curl -L https://raw.github.com/hatefastfood/docker_hw/master/start.sh > start.sh && bash start.sh
+curl -L https://raw.github.com/hatefastfood/docker_hw/main/start.sh > start.sh && bash start.sh
 ```
